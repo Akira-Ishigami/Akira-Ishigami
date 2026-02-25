@@ -13,12 +13,14 @@
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akira-Ishigami&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Ishigami&layout=compact&langs_count=7&theme=radical" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Ishigami&show_icons=true&theme=radical"/>
+</p>
+<p align="left">
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Ishigami&layout=compact&theme=radical"/>
+</p>
 
 ### Contact
 
