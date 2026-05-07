@@ -1,30 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Akira+Ishigami.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&width=600&lines=Hi%2C+I'm+Akira+Ishigami.;Full-Stack+Dev+%7C+Automation+%7C+AI;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
-<img src="https://media1.tenor.com/m/iNpoS6srIXkAAAAd/waneella-pixel-art.gif" alt="Pixel Art" align="right" width="450">
+<img src="https://media3.giphy.com/media/9B7XwCQZRQfQs/giphy.gif" alt="Cyberpunk City" align="right" width="360">
 
-### Technologies and tools:
+### Technologies
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alisson-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alisson-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alisson-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alisson-PYTHON" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</div><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="32" width="36" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" width="36" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="32" width="36" />
+
+<br clear="right" />
+
+---
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Ishigami&show_icons=true&theme=radical"/>
-</p>
-<p align="left">
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Ishigami&layout=compact&theme=radical"/>
-</p>
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Ishigami&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Ishigami&layout=compact&theme=radical&hide_border=true" />
+
+---
 
 ### Contact
 
-<div> 
-  <a href="https://www.instagram.com/dev__akira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5569999145425" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+<a href="https://www.instagram.com/dev__akira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://wa.me/5569999145425" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:akira.vha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
