@@ -1,16 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&width=600&lines=Hi%2C+I'm+Akira+Ishigami.;Full-Stack+Dev+%7C+Automation+%7C+AI;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
-<img src="https://media3.giphy.com/media/9B7XwCQZRQfQs/giphy.gif" alt="Cyberpunk City" align="right" width="360">
-
-### Technologies
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="32" width="36" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" width="36" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="32" width="36" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="32" width="36" />
-
-<br clear="right" />
-
 ---
-
 ### GitHub Stats
+
+<img src="https://media3.giphy.com/media/9B7XwCQZRQfQs/giphy.gif" alt="Cyberpunk City" align="right" width="360">
 
 <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Ishigami&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Ishigami&layout=compact&theme=radical&hide_border=true" />
