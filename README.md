@@ -1,17 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&width=600&lines=Hi%2C+I'm+Akira+Ishigami.;Full-Stack+Dev+%7C+Automation+%7C+AI;Building+things+that+actually+work.)](https://git.io/typing-svg)
+<div align="center">
+
+# Akira Ishigami Magalhães
+
+**Junior Automation Developer · AI Agents Engineering**
+Nexla IA — Vilhena, Rondônia, Brasil
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev__akira/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5569999145425)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akira.vha@gmail.com)
+
+</div>
 
 ---
-### GitHub Stats
 
-<img src="https://media3.giphy.com/media/9B7XwCQZRQfQs/giphy.gif" alt="Cyberpunk City" align="right" width="360">
+## 🇧🇷 Sobre mim
 
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Ishigami&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Ishigami&layout=compact&theme=radical&hide_border=true" />
+Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empresa brasileira de automação com IA (Vilhena/RO). Trabalho com **agentes de IA para WhatsApp, automações em n8n e produtos SaaS** para clientes de diversos segmentos. Também sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Favoo.
+
+🏆 Fiz parte da equipe vencedora da etapa local de Vilhena do **NASA Space Apps Challenge 2025**, com o projeto **EYA** — uma plataforma de satélite + IA para identificação de descarte irregular de resíduos, que seguiu para o South Summit Brasil e para o programa Centelha (FAPERO/RO).
+
+### Stack
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `Supabase` · `PostgreSQL`
+`n8n` · `Evolution API` · `LangChain / LangGraph` · `Docker` · `AWS` · `GitLab CI/CD`
+
+### Destaques
+
+- 🤖 Desenvolvimento de agentes de IA para WhatsApp (atendimento, agendamento, vendas) com n8n + Evolution API
+- 🧩 Produtos SaaS internos da Nexla IA (gestão para clínicas, escritórios de advocacia, energia)
+- 🛰️ **EYA** — projeto vencedor do NASA Space Apps Challenge 2025 (Vilhena)
 
 ---
 
-### Contact
+## 🇺🇸 About me
 
-<a href="https://www.instagram.com/dev__akira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://wa.me/5569999145425" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="mailto:akira.vha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automation company based in Vilhena, Rondônia. I build **WhatsApp AI agents, n8n automation workflows, and SaaS products** for clients across different industries. I'm also studying **Systems Analysis and Development** at Faculdade Favoo.
+
+🏆 I was part of the winning team of the Vilhena local event of **NASA Space Apps Challenge 2025**, with the project **EYA** — a satellite + AI platform for identifying irregular waste disposal, which went on to South Summit Brazil and the Centelha program (FAPERO/RO).
+
+### Tech Stack
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `Supabase` · `PostgreSQL`
+`n8n` · `Evolution API` · `LangChain / LangGraph` · `Docker` · `AWS` · `GitLab CI/CD`
+
+### Highlights
+
+- 🤖 Building WhatsApp AI agents (support, scheduling, sales) with n8n + Evolution API
+- 🧩 Internal SaaS products at Nexla IA (clinic management, law firm management, energy)
+- 🛰️ **EYA** — NASA Space Apps Challenge 2025 winning project (Vilhena)
+
+---
+
+<div align="center">
+
+📫 **akira.vha@gmail.com** · 📷 **[@dev__akira](https://www.instagram.com/dev__akira/)**
+
+</div>
