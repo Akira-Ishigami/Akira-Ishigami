@@ -39,14 +39,6 @@ Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empres
 | [Chamada QR](https://chamada-phi.vercel.app/login.html) | Sistema de presença escolar via leitura de QR Code, com gestão de turmas, professores e relatórios de frequência |
 | [Escola Genival Nunes](https://escolagenivalnunes.com.br) | Site institucional da EEEFM Deputado Genival Nunes da Costa |
 
-### Repositórios de estudo
-
-| Projeto | Descrição |
-|---|---|
-| [Python](https://github.com/Akira-Ishigami/Python) | Projetos desenvolvidos em Python |
-| [Portifólio-Ctrl+Play](https://github.com/Akira-Ishigami/Portif-lio-Ctrl-Play) | Portfólio desenvolvido no curso da Ctrl+Play |
-| [Projetos-Html-e-CSS](https://github.com/Akira-Ishigami/Projetos-Html-e-CSS) | Projetos de cursos de Desenvolvimento Web |
-
 ### Formação complementar (Alura)
 
 **Inteligência Artificial** — 76h
@@ -82,14 +74,6 @@ I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automa
 | [Navalha](https://navalha-opal.vercel.app/) | Barbershop scheduling system — real-time agenda, per-barber dashboard, public booking page with Mercado Pago checkout |
 | [Chamada QR](https://chamada-phi.vercel.app/login.html) | QR-code-based school attendance system, with class/teacher management and attendance reports |
 | [Escola Genival Nunes](https://escolagenivalnunes.com.br) | Institutional website for EEEFM Deputado Genival Nunes da Costa |
-
-### Study repositories
-
-| Project | Description |
-|---|---|
-| [Python](https://github.com/Akira-Ishigami/Python) | Projects developed in Python |
-| [Portfolio-Ctrl+Play](https://github.com/Akira-Ishigami/Portif-lio-Ctrl-Play) | Portfolio built during the Ctrl+Play course |
-| [Projetos-Html-e-CSS](https://github.com/Akira-Ishigami/Projetos-Html-e-CSS) | Web development course projects |
 
 ### Complementary training (Alura)
 
