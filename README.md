@@ -30,14 +30,30 @@ Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empres
 - 🧩 Produtos SaaS internos da Nexla IA — **AdvoSac** (gestão para escritórios de advocacia), **CliniSac** (gestão para clínicas) e um SaaS de atendimento via WhatsApp (Vite + React + TypeScript + Supabase)
 - 🛰️ **EYA** — projeto vencedor do NASA Space Apps Challenge 2025 (Vilhena)
 
-### Repositórios em destaque
+### Projetos em produção
+
+| Projeto | Descrição |
+|---|---|
+| [Montei](https://montei.vercel.app/) | SaaS de geração automática de grade horária escolar, sem conflitos de professores |
+| [Navalha](https://navalha-opal.vercel.app/) | Sistema de agendamento para barbearias — agenda em tempo real, painel por barbeiro, página pública com pagamento via Mercado Pago |
+| [Chamada QR](https://chamada-phi.vercel.app/login.html) | Sistema de presença escolar via leitura de QR Code, com gestão de turmas, professores e relatórios de frequência |
+| [Escola Genival Nunes](https://escolagenivalnunes.com.br) | Site institucional da EEEFM Deputado Genival Nunes da Costa |
+
+### Repositórios de estudo
 
 | Projeto | Descrição |
 |---|---|
 | [Python](https://github.com/Akira-Ishigami/Python) | Projetos desenvolvidos em Python |
 | [Portifólio-Ctrl+Play](https://github.com/Akira-Ishigami/Portif-lio-Ctrl-Play) | Portfólio desenvolvido no curso da Ctrl+Play |
 | [Projetos-Html-e-CSS](https://github.com/Akira-Ishigami/Projetos-Html-e-CSS) | Projetos de cursos de Desenvolvimento Web |
-| [Projeto-de-Portfólio-de-academia](https://github.com/Akira-Ishigami/Projeto-de-Portf-lio-de-academia) | Projeto de portfólio para academia |
+
+### Formação complementar (Alura)
+
+**Inteligência Artificial** — 76h
+LangChain e Python (OpenAI) · LangChain: chatbots com RAG · LangChain: técnicas avançadas de RAG · LangGraph: orquestrando agentes e multiagentes · Arquiteturas RAG com LLMs (embeddings, busca semântica) · Protocolos e arquitetura para agentes (MCP, A2A, AG-UI, BFA) · Python aplicado à IA
+
+Também com trilhas concluídas em Front-end, Back-end, Dados (NLP/clusterização), WordPress e Gestão & Negócios.
+[Ver certificado completo →](https://cursos.alura.com.br/user/akira-vha/fullCertificate/56cd5a562e67a7fc2f0df3cdb97fb4bc)
 
 ---
 
@@ -58,14 +74,30 @@ I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automa
 - 🧩 Internal SaaS products at Nexla IA — **AdvoSac** (law firm management), **CliniSac** (clinic management), and a WhatsApp support SaaS (Vite + React + TypeScript + Supabase)
 - 🛰️ **EYA** — NASA Space Apps Challenge 2025 winning project (Vilhena)
 
-### Featured repositories
+### Live projects
+
+| Project | Description |
+|---|---|
+| [Montei](https://montei.vercel.app/) | SaaS that automatically generates school timetables with no teacher conflicts |
+| [Navalha](https://navalha-opal.vercel.app/) | Barbershop scheduling system — real-time agenda, per-barber dashboard, public booking page with Mercado Pago checkout |
+| [Chamada QR](https://chamada-phi.vercel.app/login.html) | QR-code-based school attendance system, with class/teacher management and attendance reports |
+| [Escola Genival Nunes](https://escolagenivalnunes.com.br) | Institutional website for EEEFM Deputado Genival Nunes da Costa |
+
+### Study repositories
 
 | Project | Description |
 |---|---|
 | [Python](https://github.com/Akira-Ishigami/Python) | Projects developed in Python |
 | [Portfolio-Ctrl+Play](https://github.com/Akira-Ishigami/Portif-lio-Ctrl-Play) | Portfolio built during the Ctrl+Play course |
 | [Projetos-Html-e-CSS](https://github.com/Akira-Ishigami/Projetos-Html-e-CSS) | Web development course projects |
-| [Gym-Portfolio-Project](https://github.com/Akira-Ishigami/Projeto-de-Portf-lio-de-academia) | Gym portfolio project |
+
+### Complementary training (Alura)
+
+**Artificial Intelligence** — 76h
+LangChain and Python (OpenAI) · LangChain: chatbots with RAG · LangChain: advanced RAG techniques · LangGraph: orchestrating agents and multi-agents · RAG architectures with LLMs (embeddings, semantic search) · Agent protocols and architecture (MCP, A2A, AG-UI, BFA) · Python applied to AI
+
+Also completed tracks in Front-end, Back-end, Data (NLP/clustering), WordPress, and Marketing & Business.
+[View full certificate →](https://cursos.alura.com.br/user/akira-vha/fullCertificate/56cd5a562e67a7fc2f0df3cdb97fb4bc)
 
 ---
 
