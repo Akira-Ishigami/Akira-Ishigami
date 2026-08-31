@@ -27,8 +27,17 @@ Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empres
 ### Destaques
 
 - 🤖 Desenvolvimento de agentes de IA para WhatsApp (atendimento, agendamento, vendas) com n8n + Evolution API
-- 🧩 Produtos SaaS internos da Nexla IA (gestão para clínicas, escritórios de advocacia, energia)
+- 🧩 Produtos SaaS internos da Nexla IA — **AdvoSac** (gestão para escritórios de advocacia), **CliniSac** (gestão para clínicas) e um SaaS de atendimento via WhatsApp (Vite + React + TypeScript + Supabase)
 - 🛰️ **EYA** — projeto vencedor do NASA Space Apps Challenge 2025 (Vilhena)
+
+### Repositórios em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [Python](https://github.com/Akira-Ishigami/Python) | Projetos desenvolvidos em Python |
+| [Portifólio-Ctrl+Play](https://github.com/Akira-Ishigami/Portif-lio-Ctrl-Play) | Portfólio desenvolvido no curso da Ctrl+Play |
+| [Projetos-Html-e-CSS](https://github.com/Akira-Ishigami/Projetos-Html-e-CSS) | Projetos de cursos de Desenvolvimento Web |
+| [Projeto-de-Portfólio-de-academia](https://github.com/Akira-Ishigami/Projeto-de-Portf-lio-de-academia) | Projeto de portfólio para academia |
 
 ---
 
@@ -46,8 +55,17 @@ I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automa
 ### Highlights
 
 - 🤖 Building WhatsApp AI agents (support, scheduling, sales) with n8n + Evolution API
-- 🧩 Internal SaaS products at Nexla IA (clinic management, law firm management, energy)
+- 🧩 Internal SaaS products at Nexla IA — **AdvoSac** (law firm management), **CliniSac** (clinic management), and a WhatsApp support SaaS (Vite + React + TypeScript + Supabase)
 - 🛰️ **EYA** — NASA Space Apps Challenge 2025 winning project (Vilhena)
+
+### Featured repositories
+
+| Project | Description |
+|---|---|
+| [Python](https://github.com/Akira-Ishigami/Python) | Projects developed in Python |
+| [Portfolio-Ctrl+Play](https://github.com/Akira-Ishigami/Portif-lio-Ctrl-Play) | Portfolio built during the Ctrl+Play course |
+| [Projetos-Html-e-CSS](https://github.com/Akira-Ishigami/Projetos-Html-e-CSS) | Web development course projects |
+| [Gym-Portfolio-Project](https://github.com/Akira-Ishigami/Projeto-de-Portf-lio-de-academia) | Gym portfolio project |
 
 ---
 
