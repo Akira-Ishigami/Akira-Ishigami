@@ -17,7 +17,7 @@ Nexla IA — Vilhena, Rondônia, Brasil
 
 Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empresa brasileira de automação com IA (Vilhena/RO). Trabalho com **agentes de IA para WhatsApp, automações em n8n e produtos SaaS** para clientes de diversos segmentos. Também sou estudante de **Engenharia de Software** na Descomplica.
 
-🏆 Fiz parte da equipe vencedora da etapa local de Vilhena do **NASA Space Apps Challenge 2025**, com o projeto **EYA** — uma plataforma de satélite + IA para identificação de descarte irregular de resíduos, que seguiu para o South Summit Brasil e para o programa Centelha (FAPERO/RO).
+🏆 Fiz parte da equipe vencedora da etapa local de Vilhena do **NASA Space Apps Challenge 2025**, com o projeto **EYA** — uma plataforma de satélite + IA para identificação de descarte irregular de resíduos, que seguiu para o South Summit Brasil e para o programa Centelha (FAPERO/RO). Página oficial da equipe: **[Nexla — Automação e Inteligência Artificial](https://www.spaceappschallenge.org/2025/find-a-team/nexla-automacao-e-inteligencia-artificial/)** (NASA Space Apps).
 
 ### Stack
 
@@ -53,7 +53,7 @@ Também com trilhas concluídas em Front-end, Back-end, Dados (NLP/clusterizaç�
 
 I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automation company based in Vilhena, Rondônia. I build **WhatsApp AI agents, n8n automation workflows, and SaaS products** for clients across different industries. I'm also studying **Software Engineering** at Descomplica.
 
-🏆 I was part of the winning team of the Vilhena local event of **NASA Space Apps Challenge 2025**, with the project **EYA** — a satellite + AI platform for identifying irregular waste disposal, which went on to South Summit Brazil and the Centelha program (FAPERO/RO).
+🏆 I was part of the winning team of the Vilhena local event of **NASA Space Apps Challenge 2025**, with the project **EYA** — a satellite + AI platform for identifying irregular waste disposal, which went on to South Summit Brazil and the Centelha program (FAPERO/RO). Official team page: **[Nexla — Automação e Inteligência Artificial](https://www.spaceappschallenge.org/2025/find-a-team/nexla-automacao-e-inteligencia-artificial/)** (NASA Space Apps).
 
 ### Tech Stack
 
