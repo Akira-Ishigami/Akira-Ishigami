@@ -1,10 +1,10 @@
 <div align="center">
 
 # Akira Ishigami Magalhães
-
 **Junior Automation Developer · AI Agents Engineering**
 Nexla IA — Vilhena, Rondônia, Brasil
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akira-ishigami-magalhaes/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev__akira/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5569999145425)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akira.vha@gmail.com)
@@ -20,18 +20,15 @@ Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empres
 🏆 Fiz parte da equipe vencedora da etapa local de Vilhena do **NASA Space Apps Challenge 2025**, com o projeto **EYA** — uma plataforma de satélite + IA para identificação de descarte irregular de resíduos, que seguiu para o South Summit Brasil e para o programa Centelha (FAPERO/RO). Página oficial da equipe: **[Nexla — Automação e Inteligência Artificial](https://www.spaceappschallenge.org/2025/find-a-team/nexla-automacao-e-inteligencia-artificial/)** (NASA Space Apps).
 
 ### Stack
-
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `Supabase` · `PostgreSQL`
 `n8n` · `Evolution API` · `LangChain / LangGraph` · `Docker` · `AWS` · `GitLab CI/CD`
 
 ### Destaques
-
 - 🤖 Desenvolvimento de agentes de IA para WhatsApp (atendimento, agendamento, vendas) com n8n + Evolution API
 - 🧩 Produtos SaaS internos da Nexla IA — **AdvoSac** (gestão para escritórios de advocacia), **CliniSac** (gestão para clínicas) e um SaaS de atendimento via WhatsApp (Vite + React + TypeScript + Supabase)
 - 🛰️ **EYA** — projeto vencedor do NASA Space Apps Challenge 2025 (Vilhena)
 
 ### Projetos em produção
-
 | Projeto | Descrição |
 |---|---|
 | [Montei](https://montei.vercel.app/) | SaaS de geração automática de grade horária escolar, sem conflitos de professores |
@@ -40,11 +37,11 @@ Sou desenvolvedor e especialista em automação, atuando na **Nexla IA**, empres
 | [Escola Genival Nunes](https://escolagenivalnunes.com.br) | Site institucional da EEEFM Deputado Genival Nunes da Costa |
 
 ### Formação complementar (Alura)
-
 **Inteligência Artificial** — 76h
 LangChain e Python (OpenAI) · LangChain: chatbots com RAG · LangChain: técnicas avançadas de RAG · LangGraph: orquestrando agentes e multiagentes · Arquiteturas RAG com LLMs (embeddings, busca semântica) · Protocolos e arquitetura para agentes (MCP, A2A, AG-UI, BFA) · Python aplicado à IA
 
 Também com trilhas concluídas em Front-end, Back-end, Dados (NLP/clusterização), WordPress e Gestão & Negócios.
+
 [Ver certificado completo →](https://cursos.alura.com.br/user/akira-vha/fullCertificate/56cd5a562e67a7fc2f0df3cdb97fb4bc)
 
 ---
@@ -56,18 +53,15 @@ I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automa
 🏆 I was part of the winning team of the Vilhena local event of **NASA Space Apps Challenge 2025**, with the project **EYA** — a satellite + AI platform for identifying irregular waste disposal, which went on to South Summit Brazil and the Centelha program (FAPERO/RO). Official team page: **[Nexla — Automação e Inteligência Artificial](https://www.spaceappschallenge.org/2025/find-a-team/nexla-automacao-e-inteligencia-artificial/)** (NASA Space Apps).
 
 ### Tech Stack
-
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `Supabase` · `PostgreSQL`
 `n8n` · `Evolution API` · `LangChain / LangGraph` · `Docker` · `AWS` · `GitLab CI/CD`
 
 ### Highlights
-
 - 🤖 Building WhatsApp AI agents (support, scheduling, sales) with n8n + Evolution API
 - 🧩 Internal SaaS products at Nexla IA — **AdvoSac** (law firm management), **CliniSac** (clinic management), and a WhatsApp support SaaS (Vite + React + TypeScript + Supabase)
 - 🛰️ **EYA** — NASA Space Apps Challenge 2025 winning project (Vilhena)
 
 ### Live projects
-
 | Project | Description |
 |---|---|
 | [Montei](https://montei.vercel.app/) | SaaS that automatically generates school timetables with no teacher conflicts |
@@ -76,17 +70,17 @@ I'm a developer and automation specialist at **Nexla IA**, a Brazilian AI automa
 | [Escola Genival Nunes](https://escolagenivalnunes.com.br) | Institutional website for EEEFM Deputado Genival Nunes da Costa |
 
 ### Complementary training (Alura)
-
 **Artificial Intelligence** — 76h
 LangChain and Python (OpenAI) · LangChain: chatbots with RAG · LangChain: advanced RAG techniques · LangGraph: orchestrating agents and multi-agents · RAG architectures with LLMs (embeddings, semantic search) · Agent protocols and architecture (MCP, A2A, AG-UI, BFA) · Python applied to AI
 
 Also completed tracks in Front-end, Back-end, Data (NLP/clustering), WordPress, and Marketing & Business.
+
 [View full certificate →](https://cursos.alura.com.br/user/akira-vha/fullCertificate/56cd5a562e67a7fc2f0df3cdb97fb4bc)
 
 ---
 
 <div align="center">
 
-📫 **akira.vha@gmail.com** · 📷 **[@dev__akira](https://www.instagram.com/dev__akira/)**
+📫 **akira.vha@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/akira-ishigami-magalhaes/)** · 📷 **[@dev__akira](https://www.instagram.com/dev__akira/)**
 
 </div>
